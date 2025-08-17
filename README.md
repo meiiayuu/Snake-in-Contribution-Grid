@@ -7,6 +7,8 @@
 3. Enable the workflow in [Actions](../../actions)
 4. Replace YOUR-USERNAME and YOUR-REPO-NAME in `![](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO-NAME/output/github-contribution-grid-snake.svg)`
 
+![](https://raw.githubusercontent.com/meiiayuu/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+
 ## Example
 
 - Repo URL: https://github.com/CompetitiveLin/Snake-in-Contribution-Grid
